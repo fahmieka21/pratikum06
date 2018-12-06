@@ -73,8 +73,10 @@ Aplikasi Kalkulator sederhana
                 }
 }
 ```
+
 3.Flowchart di bawah ini
 ![img](https://github.com/fahmieka21/pratikum06/blob/master/flowchart.png)
+
 
 4.Hasilnya Di Bawah Ini
 ![img](https://github.com/fahmieka21/pratikum06/blob/master/penjumlahan.png)
